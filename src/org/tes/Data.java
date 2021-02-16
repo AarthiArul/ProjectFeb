@@ -5,6 +5,7 @@ public class Data {
 	{
 		System.out.println("Data Print");
 		System.out.println("Person-1 changed the code");
+		System.out.println("Person 2 Change the code");
 	}
 	public static void main(String[] args) {
 		
