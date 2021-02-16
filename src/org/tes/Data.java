@@ -4,6 +4,7 @@ public class Data {
 	private void printSome()
 	{
 		System.out.println("Data Print");
+		System.out.println("Person 2 Change the code");
 	}
 	public static void main(String[] args) {
 		
